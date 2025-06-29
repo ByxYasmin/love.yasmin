@@ -4,7 +4,7 @@
 
 ### 🚀 About Me  
 🔹 Java developer  
-🔹 CEO of [FastPlugins]([https://streethosting.com.br](https://discord.gg/GQVjKfrpjH))
+🔹 CEO of [FastPlugins]([https://streethosting.com.br](https://discord.gg/GQVjKfrpjH])
 ---
 
 ### 🛠 Tech Stack  
