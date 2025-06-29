@@ -4,9 +4,7 @@
 
 ### 🚀 About Me  
 🔹 Java developer  
-🔹 CEO of [FastPlugins]([https://streethosting.com.br](https://discord.gg/GQVjKfrpjH)) -
-🔹 Love working with Bukkit
-
+🔹 CEO of [FastPlugins]([https://streethosting.com.br](https://discord.gg/GQVjKfrpjH))
 ---
 
 ### 🛠 Tech Stack  
