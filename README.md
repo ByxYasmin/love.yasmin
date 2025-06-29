@@ -25,10 +25,6 @@
 
 ---
 
----
-
----
-
 ### 🌐 Connect with Me  
 <div align="center">
   <a href="https://discord.com/users/920408029470543982" target="_blank">
