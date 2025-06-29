@@ -1,14 +1,10 @@
 <h1 align="center">Hey there! 👋 I'm ByxYasmin</h1>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=syncwrld.syncwrld&left_color=blue&right_color=lightgrey&left_text=Profile%20Views" />
-</p>
-
 ---
 
 ### 🚀 About Me  
 🔹 Java developer  
-🔹 CEO of [FastPlugins]([https://streethosting.com.br](https://discord.gg/GQVjKfrpjH))
+🔹 CEO of [FastPlugins]([https://streethosting.com.br](https://discord.gg/GQVjKfrpjH)) -
 🔹 Love working with Bukkit
 
 ---
